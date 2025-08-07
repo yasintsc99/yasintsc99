@@ -5,7 +5,7 @@
 
 🎓 **Eğitim:**
 - 🎓 Sakarya Üniversitesi - Endüstri Mühendisliği (Lisans)
-- 💻 Sakarya Üniversitesi - Bilişim Sistemleri Mühendisliği (ÇAP)
+- 💻 Sakarya Üniversitesi - Bilişim Sistemleri Mühendisliği (Lisans)
 
 🛠️ **Yetenekler & Teknolojiler:**
 <p>
@@ -20,22 +20,25 @@
 - Machine Learning ile gerçek dünya problemlerine çözüm üretmek
 - Full-Stack Web Geliştirme
 - Veri analizi & görselleştirme
-- Üretim ve kalite süreçlerini dijitalleştirme
+- Süreç Geliştirme
+- Yazılım otomasyonları
 
 💼 **Deneyimler:**
 - 👨‍💻 DEVA Holding A.Ş. – Üretim planlama ve kalite süreç gözlemi
 - 🖥️ Junior Software Developer – Web tabanlı yazılım geliştirme (ASP.NET Core + MongoDB)
+- 🖥️ E-Commerce Website Content Management Intern (Python + PowerBI)
 
 📁 **Projelerim:**
-- 🔗 [Used Vehicle Price Estimation Using ML](https://github.com/yasintsc99)
-- 🔗 [Breast Cancer Diagnosis with ML](https://github.com/yasintsc99)
-- 🔗 [Web Tabanlı Muhasebe Yazılımı](https://github.com/yasintsc99)
-
+- 🔗 [Used Vehicle Price Estimation Using ML](https://github.com/yasintsc99/Car-Price-Prediction)
+- 🔗 [Breast Cancer Diagnosis with ML](https://github.com/yasintsc99/Breast-Cancer-Diagnosis-With-Machine-Learning)
+- 🔗 [Email Sending Application as SMS via Twilio](https://github.com/yasintsc99/Send-Sms-From-GmailBox)
+- 🔗 [Trendyol Seller Data Scraper](https://github.com/yasintsc99/TRENDYOL-SCRAPER)
 📜 **Sertifikalarım:**
 - ✅ Advanced Python Programming
 - ✅ A to Z C# Programming
 - ✅ Web Development
-- ✅ Database Security
+- ✅ Advanced Level SQL Server And T-SQL
+- ✅ Database Security & Database Attacks
 
 📊 **GitHub İstatistikleri:**
 <p>
