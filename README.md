@@ -33,6 +33,7 @@
 - 🔗 [Breast Cancer Diagnosis with ML](https://github.com/yasintsc99/Breast-Cancer-Diagnosis-With-Machine-Learning)
 - 🔗 [Email Sending Application as SMS via Twilio](https://github.com/yasintsc99/Send-Sms-From-GmailBox)
 - 🔗 [Trendyol Seller Data Scraper](https://github.com/yasintsc99/TRENDYOL-SCRAPER)
+  
 📜 **Sertifikalarım:**
 - ✅ Advanced Python Programming
 - ✅ A to Z C# Programming
