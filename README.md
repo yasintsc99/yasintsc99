@@ -5,7 +5,7 @@
 
 🎓 **Eğitim:**
 - 🎓 Sakarya Üniversitesi - Endüstri Mühendisliği (Lisans)
-- 💻 Sakarya Üniversitesi - Bilişim Sistemleri Mühendisliği (Lisans)
+- 🎓 Sakarya Üniversitesi - Bilişim Sistemleri Mühendisliği (Lisans)
 
 🛠️ **Yetenekler & Teknolojiler:**
 <p>
